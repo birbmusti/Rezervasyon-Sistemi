@@ -30,17 +30,15 @@ Kullanıcılar sefer oluşturabilir, koltuk rezervasyonu yapabilir, iptal edebil
 ## Kullanım
 1- Tüm ```.java``` dosyalarını aynı klasöre kaydedin.
 
-`
-Main.java
+```Main.java```
 
-RezervasyonSistemi.java
+```RezervasyonSistemi.java```
 
-Sefer.java
+```Sefer.java```
 
-Otobus.java
+```Otobus.java```
 
-Rezervasyon.java
-`
+```Rezervasyon.java```
 
 2- Terminal veya komut satırında derleyin:
 
