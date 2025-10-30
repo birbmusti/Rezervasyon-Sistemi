@@ -27,18 +27,19 @@ Kullanıcılar sefer oluşturabilir, koltuk rezervasyonu yapabilir, iptal edebil
 
 ---
 
+## Kullanım
+Tüm ```.java``` dosyalarını aynı klasöre kaydedin.
+
+
+
+---
+
 ## Örnek Menü
 
 === Otobüs Rezervasyon Simülasyonu ===
-
-1. Sefer Oluştur
-
-2. Seferleri Listele
-
-3. Koltuk Rezervasyonu Yap
-
-4. Rezervasyon İptal Et
-
-5. Doluluk Durumunu Görüntüle
-
-*0. Çıkış
+1) Sefer Oluştur
+2) Seferleri Listele
+3) Koltuk Rezervasyonu Yap
+4) Rezervasyon İptal Et
+5) Doluluk Durumunu Görüntüle
+0) Çıkış
