@@ -27,21 +27,6 @@ Kullanıcılar sefer oluşturabilir, koltuk rezervasyonu yapabilir, iptal edebil
 
 ---
 
-## Kullanım
-
-1. Tüm `.java` dosyalarını aynı klasöre kaydedin.  
-Main.java
-RezervasyonSistemi.java
-Sefer.java
-Otobus.java
-Rezervasyon.java
-2. Terminal veya komut satırında derleyin:  
-javac *.java
-3. Programı çalıştırın:  
-java Main
-
----
-
 ## Örnek Menü
 
 === Otobüs Rezervasyon Simülasyonu ===
@@ -56,4 +41,4 @@ java Main
 
 5. Doluluk Durumunu Görüntüle
 
-0. Çıkış
+*0. Çıkış
