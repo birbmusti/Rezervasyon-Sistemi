@@ -46,14 +46,14 @@ java Main
 
 === Otobüs Rezervasyon Simülasyonu ===
 
-Sefer Oluştur
+1. Sefer Oluştur
 
-Seferleri Listele
+2. Seferleri Listele
 
-Koltuk Rezervasyonu Yap
+3. Koltuk Rezervasyonu Yap
 
-Rezervasyon İptal Et
+4. Rezervasyon İptal Et
 
-Doluluk Durumunu Görüntüle
+5. Doluluk Durumunu Görüntüle
 
-Çıkış
+0. Çıkış
