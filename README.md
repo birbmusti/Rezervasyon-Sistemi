@@ -52,9 +52,9 @@ Rezervasyon.java
 ## Örnek Menü
 
 === Otobüs Rezervasyon Simülasyonu ===
+0) Çıkış
 1) Sefer Oluştur
 2) Seferleri Listele
 3) Koltuk Rezervasyonu Yap
 4) Rezervasyon İptal Et
 5) Doluluk Durumunu Görüntüle
-0) Çıkış
